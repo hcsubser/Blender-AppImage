@@ -19,7 +19,6 @@ double click on the appimage:
 
 #### Terminal 
 ```bash
-./Blender-*.AppImage
 chmod +x Blender-*.AppImage
 ./Blender-*.AppImage
 ```
@@ -28,7 +27,7 @@ If you do not have FUSE installed on your system you can
 still run the AppImage like this:
 
 ```bash
-./Firefox-*.AppImage --appimage-extract
+./Blender-*.AppImage --appimage-extract
 cd squashfs-root
 ./AppRun
 ```
@@ -38,4 +37,4 @@ This is an unofficial AppImage of Blender.
 Here is the link to the official page: https://www.blender.org/
 there you can find official releases of Blender for Linux (packed
 in a .tar.gz archive), Windows and MacOS as well as the source
-code to the software and to the licence.
+code of the software and details about the licence.
