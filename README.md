@@ -15,7 +15,7 @@ double click on the appimage:
 3. Go to Permissions
 4. Allow file to run as executable
 
-**Terms may be a little different depending on your File Manager/Desktop Environment
+*Terms used may be a little different depending on your File Manager/Desktop Environment
 
 #### Terminal 
 ```bash
@@ -34,7 +34,7 @@ cd squashfs-root
 ```
 
 ## Note
-This is an unofficial AppImage of Blender
+This is an unofficial AppImage of Blender.
 Here is the link to the official page: https://www.blender.org/
 there you can find official releases of Blender for Linux (packed
 in a .tar.gz archive), Windows and MacOS as well as the source
